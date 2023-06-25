@@ -1,0 +1,37 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  h1 {
+    margin-bottom: 30px;
+  }
+  
+  #searchInput {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  
+  #searchResults li {
+    list-style-type: none;
+    margin-bottom: 10px;
+  }
+  
+  #favouriteMovies li {
+    list-style-type: none;
+    margin-bottom: 10px;
+  }
+  
+  #moviePage {
+    text-align: left;
+    margin-top: 30px;
+  }
+  
+  .btn {
+    margin-left: 5px;
+  }
+  
+  
